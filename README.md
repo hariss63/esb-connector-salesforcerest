@@ -20,7 +20,7 @@ The Salesforce REST [Connector](https://docs.wso2.com/display/EI650/Working+with
 2. Then you can follow this [Documentation](https://docs.wso2.com/display/EI650/Working+with+Connectors+via+the+Management+Console) to add and enable the connector via the Management Console in your EI instance.
 3. For more information on using connectors and their operations in your EI configurations, see [Using a Connector](https://docs.wso2.com/display/EI650/Using+a+Connector).
 4. If you want to work with connectors via EI tooling, see [Working with Connectors via Tooling](https://docs.wso2.com/display/EI650/Working+with+Connectors+via+Tooling).
-
+5. This id done by Hari to Test the GIT.
 #### Configuring the connector operations
 
 To get started with Salesforce REST connector and their operations, see [Configuring Salesforce REST Operations](docs/config.md).
